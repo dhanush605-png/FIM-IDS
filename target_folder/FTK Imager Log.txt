@@ -1,0 +1,53 @@
+﻿Created By AccessData® FTK® Imager 3.1.1.8 
+
+Case Information: 
+Acquired using: ADI3.1.1.8
+Case Number:  
+Evidence Number:  
+Unique description: Lone Wolf Scenario
+Examiner:
+Notes:  
+
+--------------------------------------------------------------
+
+Information for F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 62,260
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 1,000,215,216
+[Physical Drive Information]
+ Drive Model: Samsung SSD 850 PRO 512GB
+ Drive Serial Number: S250NSAG505708H     
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 488386 MB
+ Sector count:    1000215216
+[Computed Hashes]
+ MD5 checksum:    7af48fa65519e84246b1729e5b68f140
+ SHA1 checksum:   694e26624d1ea029eb50d793b198edf85be4b4fc
+
+Image Information:
+ Acquisition started:   Fri Apr 06 08:50:44 2018
+ Acquisition finished:  Fri Apr 06 09:42:25 2018
+ Segment list:
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E01
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E02
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E03
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E04
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E05
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E06
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E07
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E08
+  F:\CFRS 780 Lone Wolf Scenario\Evidence Files\LoneWolf.E09
+
+Image Verification Results:
+ Verification started:  Fri Apr 06 09:42:26 2018
+ Verification finished: Fri Apr 06 10:24:18 2018
+ MD5 checksum:    7af48fa65519e84246b1729e5b68f140 : verified
+ SHA1 checksum:   694e26624d1ea029eb50d793b198edf85be4b4fc : verified
